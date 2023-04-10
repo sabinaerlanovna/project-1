@@ -1,5 +1,7 @@
-
-
+wrapper {
+    display: grid;
+    grid-gap: 20px;
+}
  body {
     background-color: rgb(218, 218, 218);
  }
@@ -124,4 +126,8 @@ footer {
     background:rgb(37, 37, 37);
     color: white;
     padding: 10%;
+}
+
+#sup {
+    margin: 0;
 }
